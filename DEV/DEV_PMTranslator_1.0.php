@@ -2,15 +2,15 @@
 
 /*
   __PocketMine Plugin__
-  name=Translator
+  name=PMTranslator
   description=Translate stuff in-game!
   version=1.0
   author=tschrock
-  class=Translator
+  class=PMTranslator
   apiversion=12
  */
 
-class Translator implements Plugin {
+class PMTranslator implements Plugin {
 
     private $api, $config;
     
